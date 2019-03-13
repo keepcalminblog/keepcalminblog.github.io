@@ -15,7 +15,7 @@ author:
   name:		'Ian Camporez Brunelli'
   url:		https://keepcalminblog.github.io
 
-paginate:	5
+paginate:	20
 
 # Custom vars
 icon:		/assets/images/icon.png
@@ -40,7 +40,7 @@ social:
     
 menu:
   - title:	Home
-    url:	/
+    url:	http://keepcalminblog.github.io
     
 copyright:
   author:	Camporez
