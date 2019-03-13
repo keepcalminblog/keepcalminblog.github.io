@@ -8,3 +8,8 @@
 	<a href="{{ item.url }}">{{ item.title }}</a><br>
 	{% endfor %}
 </div>
+<div class="social-links">
+	{% for social in site.social %}
+	<a href="{{ social.url }}" target="_blank" title="{{ social.desc }}"><span class="genericon genericon-{{ social.icon }}"></span></a>
+	{% endfor %}
+</div>
