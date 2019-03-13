@@ -27,7 +27,7 @@ title: Home
 	{% endif %}
 	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 	{% if paginator.previous_page %}
-		{% if paginator.page == 20 %}
+		{% if paginator.page == 5 %}
 			<a class="older-posts" href="/">Newer posts &rarr;</a>
 		{% else %}
 			<a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
