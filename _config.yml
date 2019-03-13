@@ -21,29 +21,13 @@ paginate:	3
 icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
 
-social:
-  - icon:	twitter
-    url:	https://keepcalminblog.github.io
-    desc:	Follow me on twitter
-
-  - icon:	github
-    url:	https://keepcalminblog.github.io
-    desc:	Fork me on github
-
-  - icon:	googleplus-alt
-    url:	https://keepcalminblog.github.io
-    desc:	Add me on google+
-
-  - icon:	feed
-    url:	http://keepcalminblog.github.io/atom.xml
-    desc:	Subscribe to my feed
     
 menu:
   - title:	Home
     url:	http://keepcalminblog.github.io
     
 copyright:
-  author:	Camporez
+  author:	keepcalminblog
   url:		http://keepcalminblog.github.io
   type_title:	Some rights reserved
   type_url:	http://keepcalminblog.github.io
