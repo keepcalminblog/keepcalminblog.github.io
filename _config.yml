@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 
 # Permalinks
-permalink:  /blog/:title
+permalink:  http://keepcalminblog.github.io
 
 # Setup
 title:    Thinny
@@ -21,23 +21,6 @@ paginate: 5
 icon:   /assets/images/icon.png
 cover:    /assets/images/cover.jpg
 
-social:
-  - icon: twitter
-    url:  https://twitter.com/
-    desc: Follow me on twitter
-
-  - icon: github
-    url:  https://github.com
-    desc: Fork me on github
-
-  - icon: googleplus-alt
-    url:  https://google.com/
-    desc: Add me on google+
-
-  - icon: feed
-    url:  http://camporez.com/atom.xml
-    desc: Subscribe to my feed
-    
 menu:
   - title:  Home
     url:  /
