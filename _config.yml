@@ -6,13 +6,13 @@ pygments: true
 permalink:  http://keepcalminblog.github.io
 
 # Setup
-title:    Thinny
+title:    Онлайн казино - советы
 tagline:  'blog'
-description:  'My personal blog.'
+description:  'Все советы о том как игарть в покер или онлайн казино'
 url:    http://keepcalminblog.github.io
 
 author:
-  name:   'Ian Camporez Brunelli'
+  name:   'Fishka'
   url:    https://google.com
 
 paginate: 10
@@ -26,7 +26,7 @@ menu:
     url:  /
     
 copyright:
-  author: Camporez
+  author: Fishka
   url:    http://keepcalminblog.github.io
   type_title: Some rights reserved
   type_url: http://keepcalminblog.github.io
