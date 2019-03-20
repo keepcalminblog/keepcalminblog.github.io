@@ -3,14 +3,14 @@ markdown: redcarpet
 pygments: true
 
 # Permalinks
-permalink:  http://www.zvezda-langepasa.com
+permalink:  
 
 # Setup
 title:    Онлайн казино - советы
 tagline:  'blog'
 description:  'Все советы о том как игарть в покер или онлайн казино'
-url:    http://www.zvezda-langepasa.com
-baseurl: "/"
+url:    /
+baseurl: /
 
 author:
   name:   'Fishka'
