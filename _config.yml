@@ -9,7 +9,7 @@ permalink:
 title:    Онлайн казино - советы
 tagline:  'blog'
 description:  'Все советы о том как игарть в покер или онлайн казино'
-url:    /
+url:    http://www.zvezda-langepasa.com
 baseurl: /
 
 author:
@@ -23,9 +23,13 @@ icon:   /assets/images/icon.png
 cover:    /assets/images/cover.jpg
 
 menu:
-  - title:  Home
+  - title:  Главная
     url:  /
     
 copyright:
   author: Fishka
   url:    http://www.zvezda-langepasa.com
+
+plugins:
+    - jekyll-minifier
+    - jekyll-sitemap
