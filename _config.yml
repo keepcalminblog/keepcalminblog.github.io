@@ -29,7 +29,16 @@ menu:
 copyright:
   author: Fishka
   url:    http://www.zvezda-langepasa.com
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+  - "jekyll-minifier"
 
-plugins:
-    - jekyll-minifier
-    - jekyll-sitemap
+plugins: 
+  - jekyll-minifier
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
