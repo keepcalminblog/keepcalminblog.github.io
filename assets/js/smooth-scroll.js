@@ -1,3 +1,7 @@
+---
+layout: compress-js
+---
+
 (function() {
 
 	'use strict';
