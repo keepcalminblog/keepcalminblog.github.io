@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 
 # Permalinks
-permalink:  
+permalink:
 
 # Setup
 title:    Онлайн казино - советы
@@ -25,20 +25,28 @@ cover:    /assets/images/cover.jpg
 menu:
   - title:  Главная
     url:  /
-    
+
 copyright:
   author: Fishka
   url:    http://www.zvezda-langepasa.com
+  
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-123-456          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 gems:
   - "jekyll-feed"
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-sitemap"
   - "jekyll-minifier"
+  - "jekyll-analytics"
 
-plugins: 
+plugins:
   - jekyll-minifier
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-archives
+  - jekyll-analytics
